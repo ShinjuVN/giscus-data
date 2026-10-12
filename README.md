@@ -1,2 +1,0 @@
-# giscus-data
-Comment
